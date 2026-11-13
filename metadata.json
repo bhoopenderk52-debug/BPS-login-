@@ -1,0 +1,6 @@
+{
+  "name": "Study Time",
+  "description": "Study Time – Study & Play: Track daily study sessions, subjects, goals, reports, earn coins & streaks, and play 4 classic mini-games in English and Hindi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
